@@ -269,11 +269,9 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 > ffmpeg -version
 ```
 ----
-### DISTRIBUIDORES AUTORIZADOS O RESELLERS - PREGUNTAS 
-<details>
-<summary><b>¿Te gustaría ser un Distribuidores Autorizados o reseller de GataBot?</b></summary>
+
   
-- ¡Contáctanos **[correo electrónico](centergatabot@gmail.com)** o **[Telegram](https://t.me/SoporteGataBot)** para solicitar tu [**Licencia**](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)!
+- ¡Contáctanos **[correo electrónico](greibertrojas05@gmail.com)**
 </details>
 
 <details>
@@ -308,10 +306,9 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ----
 
 ### 🌟 DESARROLLADORES
-<a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
+https://github.com/Alebo585/Alebot1243.git
 
 
 ### 🌟 CREADOR 
-[![GataNina-Li]https://github.com/Alebo585/Alebot1243.git
+[![Alebotito-Li]https://github.com/Alebo585/Alebot1243.git
 
