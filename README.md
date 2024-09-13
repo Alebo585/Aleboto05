@@ -184,12 +184,12 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 - **Dashboard:** [`Aquí`](https://dash.corinplus.com)
 - **Panel:** [`Aquí`](https://ctrl.corinplus.com)
 - **Estado de servicios:** [`Aquí`](https://status.corinplus.com)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VaoeMVV7z4kid70oDZ2M)
 - **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/K235lkvaGvlGRQKYm26xZP)
-- **Contacto:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-- **Contacto:** [`elrebelde21`](https://facebook.com/elrebelde21)
+- **Contacto:** [`Alebot`](3153014439)
+- **Contacto:** [`elrebelde21`](3153014439)
 
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - GataBot-MD**</summary><img src="https://telegra.ph/file/5ba9167b88400845635df.jpg"></details>
+  
 ----
 ### 📦⛏️ BOXMINE HOST 
 [![YouTube](https://img.shields.io/badge/BoxMine_Host-GataBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Ko019wvu2Tc)
