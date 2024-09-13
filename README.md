@@ -9,18 +9,18 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="Alebot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
 </p>  
 
 <p align="center">
 <a href="#"><img title="Alebot-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
+<a href="#"><img title="Alebot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
 </p>
 
 <p align="center">   
-<a href="https://github.com/GataNina-Li/GataBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/ AleBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Alebotito-Li/aleBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Alebotito-Li/Alebot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Alebotito-Li/ AleBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/alebotito-Li/aleBot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 
@@ -32,19 +32,19 @@
 # 📍 Atajos del README
 | TEMA | DESCRIPCIÓN | ATAJO |
 |------|-------------|-------|
-| 📲 **TERMUX** | *Instalar de manera automática* |[ver](https://github.com/GataNina-Li/AleBot-MD/tree/master?tab=readme-ov-file#-opci%C3%B3n-1-instalaci%C3%B3n-autom%C3%A1tica-) |
+| 📲 **TERMUX** | *Instalar de manera automática* |[ver](https://github.com/Alebotito-Li/AleBot-MD/tree/master?tab=readme-ov-file#-opci%C3%B3n-1-instalaci%C3%B3n-autom%C3%A1tica-) |
 | 📲 **TERMUX** | *Instalación manual predeterminada* |[ver](https://github.com/GataNina-Li/AleBot-MD/#-opción-2-instalación-manual-por-termux---github) |
 | 📲 **TERMUX** | *Instalación por archivos local* |[ver](https://github.com/Alebotito-Li/Alebot-MD/#-opción-3-instalación-por-termux---archivos) |
 | 📲 **TERMUX 24/7** | *Comandos para alargar la ejecución* |[ver](https://github.com/Alebotito-Li/Alebot-MD/#-usar-Alebot-247-en-termux) |
 | 📲 **TERMUX UPDATE** | *Comandos para actualizar Alebot* |[ver](https://github.com/Alebotito-Li/Alebot-MD/#-actualizar-Alebot) |
-| ☁️ **CORINPLUS HOST** | *Activar en CorinPlus Host* |[ver](https://github.com/GataNina-Li/GataBot-MD/edit/master/README.md#%EF%B8%8F-corinplus-hots) |
-| 📦⛏️ **BOXMINE HOST** | *Activar en BoxMine Host* |[ver](https://github.com/GataNina-Li/GataBot-MD#%EF%B8%8F-boxmine-host) |
-| 🟣 **HEROKU** | *Instalación directa por Heroku* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-heroku) |
-| ⚡ **REPLIT** | *Instalación directa por Replit* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-replit---gatabot) |
-| ⏏️ **KOYEB** | *Instalación directa por Koyeb* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-activar-en-koyeb) |
+| ☁️ **CORINPLUS HOST** | *Activar en CorinPlus Host* |[ver](https://github.com/Alebotito-Li/Alebot-MD/edit/master/README.md#%EF%B8%8F-corinplus-hots) |
+| 📦⛏️ **BOXMINE HOST** | *Activar en BoxMine Host* |[ver](https://github.com//alebotito-Li/GataBot-MD#%EF%B8%8F-boxmine-host) |
+| 🟣 **HEROKU** | *Instalación directa por Heroku* |[ver](https://github.com/Alebotito-Li/Alebot-MD/#-activar-en-heroku) |
+| ⚡ **REPLIT** | *Instalación directa por Replit* |[ver](https://github.com/Alebotito-Li/Alebot-MD/#-replit---alebot) |
+| ⏏️ **KOYEB** | *Instalación directa por Koyeb* |[ver](https://github.com/GataNina-Li/Alebot-MD/#-activar-en-koyeb) |
 | 💻 **WINDOWS** | *Instalar para Windows 10 o 11* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-para-usuarios-de-windowsvpsrdp) |
 | 👥 **DISTRIBUIDORES AUTORIZADOS** | *Usuarios con Licencia GataBot* |[ver](https://github.com/GataNina-Li/GataBot-MD#distribuidores-autorizados-o-resellers---preguntas) |
-| 🐈 **SOBRE GATABOT** | *Política* |[ver](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md) |
+| 🐈 **SOBRE Alebot** | *Política* |[ver](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md) |
 | ✅ **COLABORADORES** | *Implicados en este proyecto* |[ver](https://github.com/GataNina-Li/GataBot-MD/#-creadora) |
 ----
 
